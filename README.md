@@ -66,9 +66,9 @@ SOLID Principles • MVC • MVVM • MVP • Factory • Observer • Singleton
 
 ## 📊 GitHub Stats
 
-![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshe1129&theme=dark&show_icons=true&include_all_commits=true)
+![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josesalinas-dev&theme=dark&show_icons=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshe1129&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josesalinas-dev&theme=dark&layout=compact)
 
 ---
 
